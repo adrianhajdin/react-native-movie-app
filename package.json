@@ -36,7 +36,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.7",
-    "react-native-appwrite": "^0.7.0",
+    "react-native-appwrite": "0.7.0",
     "react-native-gesture-handler": "~2.20.2",
     "react-native-heroicons": "^4.0.0",
     "react-native-reanimated": "~3.16.1",
